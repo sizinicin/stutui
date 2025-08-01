@@ -34,7 +34,7 @@ yay -S stutui
 #### Manual Installation (Other Distros)
 1. Clone the repository:
 ```bash
-git clone git@gitlab.com:sizinicin/stutui.git
+git clone https://gitlab.com/sizinicin/stutui.git
 cd stutui
 ```
 2. Build the executable:
