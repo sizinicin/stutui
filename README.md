@@ -1,5 +1,3 @@
-# Mirror Test 4
-
 # stutui
 
 A minimalist terminal‐based study timer and stopwatch with daily logging, built on ncurses.
