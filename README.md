@@ -10,6 +10,11 @@ A minimalist terminal‐based study timer and stopwatch with daily logging, buil
 - Vim-like control scheme.
 - Distraction free minimalism.
 
+## Screenshots
+![Stopwatch Page](assets/stopwatch.png)
+![Timer Page](assets/timer.png)
+![Logs Page](assets/logs.gif)
+
 ## Prerequisites
 - "ncurses" development library
 - C compiler (e.g., gcc, clang)
