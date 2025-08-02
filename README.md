@@ -36,7 +36,7 @@ paru -S stutui
 #or
 yay -S stutui
 ```
-#### Manual Installation (Other Distros)
+#### Manual (Other Distros)
 1. Clone the repository:
 ```bash
 git clone https://gitlab.com/sizinicin/stutui.git
