@@ -33,7 +33,7 @@ sudo dnf install gcc ncurses-devel
 #### Arch (AUR)
 ```bash
 paru -S stutui
-#or
+# or
 yay -S stutui
 ```
 #### Manual (Other Distros)
